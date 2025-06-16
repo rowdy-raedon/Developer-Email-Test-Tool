@@ -17,7 +17,7 @@ A modern, user-friendly tool for testing SMTP email delivery from your desktop. 
 ---
 
 ## Screenshots
-![screenshot](screenshot.png) <!-- Add your screenshot here -->
+![screenshot](https://i.imgur.com/lwfsW3k.png) <!-- Add your screenshot here -->
 
 ---
 
